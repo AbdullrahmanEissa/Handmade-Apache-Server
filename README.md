@@ -1,12 +1,8 @@
 # 🌐 Full Apache2 Built From Scratch With Docker
 
 
-<img width="1858" height="781" alt="Aws Ec2" src="https://github.com/user-attachments/assets/13aea80a-c743-4242-b7ae-e8f79d00f0e2" />
-<img width="1482" height="870" alt="EC2 SSH" src="https://github.com/user-attachments/assets/d34e2727-09ec-4e26-9e28-7e6aef0a10e3" />
-<img width="1401" height="984" alt="Docker Installation" src="https://github.com/user-attachments/assets/0c4e6387-cac0-4eaa-b321-95d34eb2d911" />
-<img width="999" height="385" alt="Git Clone HTTPD REPO" src="https://github.com/user-attachments/assets/9e2308bf-8def-4cb8-8a53-e99bb31fb118" />
-<img width="1908" height="817" alt="itworks" src="https://github.com/user-attachments/assets/58c03ebc-2cdf-4aed-99c8-ab51a37ee108" />
-<img width="674" height="384" alt="docker build 2" src="https://github.com/user-attachments/assets/5c93550f-be62-4cc9-8097-4ede58747c73" />
+![collage](https://github.com/user-attachments/assets/fdc7716e-21fa-4113-b910-068cd41e545b)
+
 
 
 Welcome to a Docker-powered Apache setup running on AWS EC2! This project sets up a lightweight HTTP server inside a Docker container, all deployed on an EC2 instance.
